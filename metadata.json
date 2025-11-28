@@ -1,0 +1,5 @@
+{
+  "name": "Cursor Companions",
+  "description": "An interactive playground where an adorable animal companion follows your mouse cursor, with optional AI-powered thoughts.",
+  "requestFramePermissions": []
+}
